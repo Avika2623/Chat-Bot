@@ -1,4 +1,4 @@
-# APOGEE — Orbital AI Chat Console
+# CHIYA — Orbital AI Chat Console
 
 A responsive AI chat console inspired by Playground-style workflows, built with an original deep-space and astronomy visual theme, React, TypeScript, Vite, and an Express API proxy.
 
